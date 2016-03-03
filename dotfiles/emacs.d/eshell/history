@@ -1,0 +1,25 @@
+cd myWork/
+ll
+ls -l
+cd utasma/utasma
+ls -l
+cd application/modules/
+ls -l
+cd api/
+ls -l
+cd views/
+ls -l
+cd scripts/
+ls -l
+cd lyrics/
+ls -l
+cd ../..
+ll
+ls -l
+cd ..
+ls -l
+cd controllers/
+ls -l
+exit
+ll
+php test.php 

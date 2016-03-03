@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Codecs33",
+		"ConvertToUTF8",
+		"Diffy",
+		"Emmet",
+		"FavoriteFiles",
+		"Git",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-phplint",
+		"TrailingSpaces",
+		"zenburn"
+	]
+}
+

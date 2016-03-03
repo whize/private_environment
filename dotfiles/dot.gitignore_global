@@ -1,0 +1,7 @@
+*~
+*.swp
+.DS_Store
+.bundle/
+.vagrant/
+tags
+.tags_swap

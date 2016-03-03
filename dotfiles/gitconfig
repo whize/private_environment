@@ -1,0 +1,26 @@
+[color]
+	ui = auto
+[user]
+	name = 
+	email = 
+[mergetool]
+	keepBackup = true
+[core]
+#	editor = subl -nw
+	quotepath = off
+	excludesfile = /Users/whize/.gitignore_global
+	editor = /usr/bin/vim
+[tig "bind"]
+    generic = g move-first-line
+    generic = G move-last-line
+
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /opt/homebrew-cask/Caskroom/sourcetree/2.1/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[filter "lfs"]
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	required = true
