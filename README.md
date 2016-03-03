@@ -36,5 +36,5 @@ Who do I talk to?
 Author
 ------
 
-* [kawa2587](https://github.com/kawa2587)
+* [whize](https://github.com/whize)
 
